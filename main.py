@@ -28,3 +28,7 @@ mod(a,b)
 def power(a,b):
     print(a**b)
 power(a,b)
+
+def floor_div(a,b):
+    print(a//b)
+floor div(a,b)
