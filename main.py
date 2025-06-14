@@ -29,6 +29,6 @@ def power(a,b):
     print(a**b)
 power(a,b)
 
-def floor_div(a,b):
+def floor(a,b):
     print(a//b)
-floor div(a,b)
+floor(a,b)
