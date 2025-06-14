@@ -20,3 +20,7 @@ sub(a,b)
 def div(a,b):
     print(a/b)
 div(a,b)
+
+def mod(a,b):
+    print(a%b)
+mod(a,b)
