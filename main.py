@@ -7,3 +7,8 @@ print(a+b)
 def add(a,b):
     print(a+b)
 add(a,b)
+
+def mul(a,b):
+    print(a*b)
+
+mul(a,b)
