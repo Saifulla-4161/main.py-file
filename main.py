@@ -24,3 +24,7 @@ div(a,b)
 def mod(a,b):
     print(a%b)
 mod(a,b)
+
+def power(a,b):
+    print(a**b)
+power(a,b)
