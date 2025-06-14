@@ -12,3 +12,7 @@ def mul(a,b):
     print(a*b)
 
 mul(a,b)
+
+def sub(a,b):
+    print(a-b)
+sub(a,b)
