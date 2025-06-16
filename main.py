@@ -32,3 +32,22 @@ power(a,b)
 def floor(a,b):
     print(a//b)
 floor(a,b)
+
+def complexfun(a,b):
+    print(a+b*b-a**b)
+complexfun(a,b)
+
+def square(a):
+    print(a**2)
+square(a)
+
+def factorial(a):
+    if a == 0 or a == 1:
+        return 1
+    else:
+        return a * factorial(a-1)
+    
+def gcd(a,b):
+    while b:
+        a,b = b, a % b
+        return a
