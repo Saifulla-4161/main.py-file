@@ -32,3 +32,11 @@ power(a,b)
 def floor(a,b):
     print(a//b)
 floor(a,b)
+
+def complexfun(a,b):
+    print(a+b*b-a**b)
+complexfun(a,b)
+
+def square(a):
+    print(a**2)
+square(a)
